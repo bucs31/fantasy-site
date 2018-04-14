@@ -73,8 +73,11 @@ header a:hover{
 
 #showcase{
   min-height: 400px;
-  background-image:url('')
-  no-repeat 0 -400px;
+  background-image:url('https://www.desktopbackground.org/download/2048x1152/2012/07/19/423509_nfl-logo-wallpapers-wallpapers-cave_2880x1920_h.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
   text-align: center;
   color:#35424a;
 }
